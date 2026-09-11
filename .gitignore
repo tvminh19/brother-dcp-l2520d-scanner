@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Runtime data — scanned pages, exported files, working document.
+# These hold real documents; never commit them.
+data/
+scans/
+
+# Local process manager helpers / editor cruft
+pm2-ctl.sh
+.vscode/
+.idea/
+.DS_Store

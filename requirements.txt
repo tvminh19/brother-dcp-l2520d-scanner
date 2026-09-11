@@ -1,0 +1,9 @@
+# Brother DCP-L2520D scanner web UI
+Flask>=3.0
+pyusb>=1.2
+Pillow>=10.0
+numpy>=1.24
+PyMuPDF>=1.24        # PDF assembly / compression
+
+# Optional: searchable-PDF export also needs the Tesseract binary on PATH
+#   Debian/Ubuntu/Raspberry Pi OS:  sudo apt install tesseract-ocr tesseract-ocr-vie
